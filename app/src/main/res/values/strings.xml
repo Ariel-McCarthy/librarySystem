@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Otter Library System</string>
+    <string name="erase">done</string>
+    <string name="done">Completed</string>
+    <string name="user">Create New User</string>
+    <string name="hold">Place a Hold</string>
+    <string name="cancelHold">Cancel a Hold</string>
+    <string name="manageSystem">Manage System</string>
+</resources>
